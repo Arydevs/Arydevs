@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arydevs&label=Profile%20views&color=0e75b6&style=flat" alt="arydevs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@arydevs" target="blank"><img src="https://img.shields.io/twitter/follow/@arydevs?logo=twitter&style=for-the-badge" alt="@arydevs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arydevs" target="blank"><img src="https://img.shields.io/twitter/follow/arydevs?logo=twitter&style=for-the-badge" alt="arydevs" /></a> </p>
 
 
 - 🔭 I’m currently working on **Tableau Vizzes**
