@@ -1,7 +1,7 @@
-<[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://arydevs.io)>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://arydevs.io)
 <h1 align="center">Hi 👋, I'm Ary</h1>
 <h3 align="center">A passionate SQL/Python Data Analyst, Blockchain Developer, and UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arydevs&label=Profile%20views&color=0e75b6&style=flat" alt="arydevs" /> </p>
 
