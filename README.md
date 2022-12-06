@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **arydevs@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ary-n/](https://www.linkedin.com/in/ary-n/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ary-n/](https://www.linkedin.com/in/ary-james/)
 
 - ⚡ Fun fact **I am also an Audio Engineer that worked with over 200 artists ranging from independent artists to artists signed to a major record label. I have amassed over 100k views on all platforms for music I have Engineered/Produced.**
 
